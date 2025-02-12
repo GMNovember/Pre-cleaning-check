@@ -76,5 +76,5 @@ Identifies columns that contain mixed data types.
 Detects numerical outliers using the IQR method.
 
 ## License
-This script is open-source and provided under the MIT License.
+This script is open-source and provided under the Protexxa License.
 
